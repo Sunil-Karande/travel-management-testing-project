@@ -1,0 +1,18 @@
+travel-management-testing-project/
+│
+├── README.md
+├── TestPlan/
+│   └── TestPlan_TravelSystem.docx
+│
+├── TestCases/
+│   └── Travel_TestCases.xlsx
+│
+├── BugReports/
+│   ├── BugReport_Template.docx
+│   └── Bugs_Found_TravelSystem.xlsx
+│
+├── TestSummary/
+│   └── TestSummary_TravelSystem.docx
+│
+└── Screenshots/
+    └── bug_screenshot_login_error.png
